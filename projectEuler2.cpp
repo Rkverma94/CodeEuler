@@ -1,4 +1,4 @@
-/*project Euler problem 1 Hackerrank
+/*project Euler problem 2 Hackerrank
   By: Rakesh Kumar Verma (Broken Coder)
   Date: 2nd Jan 2019
 */
